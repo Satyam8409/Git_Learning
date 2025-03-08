@@ -37,9 +37,10 @@ allows you to temporarily save your uncommitted changes (both staged and unstage
 
 //Day3
 <!-- Working with Github -->
-<!-- git remote add origin https://github.com/mohitji-dons/Helloji.git
+git remote add origin https://github.com/Satyam8409/Git_Learning.git
 git branch -M main
-git push -u origin main -->
+git push -u origin main  (give this command when u r pushing for 1st time)
+git push                 (when pushing for next time)
 
 <!-- git pull origin main -->
 <!-- git pull --rebase origin main-->
